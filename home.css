@@ -1,0 +1,172 @@
+/* imports start here */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* imports end here */
+
+.navbar-nav{
+    margin: 1vh 6vw;
+}
+
+.navbar-brand{
+    margin: 6vh 6vw;
+    font-family: 'Lobster', cursive;
+    font-size: 3vw !important;
+    font-weight: 400;
+    letter-spacing: 1vw;
+}
+.n4{
+    border-bottom: transparent 4px solid;
+}
+/* navbar hover function */
+.n4:hover{
+    color: brown;
+    border-bottom: brown 4px solid;
+    border-radius: 10px;
+}
+.n1:hover{
+    color: brown;
+    border-bottom: brown 4px solid;
+    border-radius: 10px;
+}
+.n2:hover{
+    color: brown;
+    border-bottom: brown 4px solid;
+    border-radius: 10px;
+}
+.n3:hover{
+    color: brown;
+    border-bottom: brown 4px solid;
+    border-radius: 10px;
+}
+
+
+
+
+.headerbg{
+    background-image: url('background1.png');
+    height: 100%;
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hdrimg{
+    border-radius: 300px;
+    height: 5vh;
+}
+
+.hdrtxt1{
+    
+    margin-top: 80% !important;
+    margin-left: -90%;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 7vw !important; 
+    font-weight: 800;  
+    color: brown;
+    margin-right: 0% !important;
+}
+
+.text12{
+    font-size: 2vw;
+    margin-left: -10%;
+}
+
+.container-fluid{
+    padding: 0 !important ;
+}
+.col{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.img11{
+    
+    overflow: hidden !important;
+    height: 100%;
+    width: 100%;
+
+}
+.txt6{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3vw !important;
+}
+.txt7{
+    font-size: 2vw;
+}
+.row3{
+    background-color: #Ffd33f;
+}
+
+.row2{
+    position: relative;
+    text-align: center;
+}
+.txt1{
+ 
+  font-family: 'Lobster', cursive;
+  color: white;
+  
+  margin-bottom: 5%;
+
+}
+
+.txt2{
+  
+  color: white;
+  
+  font-weight: 500;
+  letter-spacing: 1.5px;  
+}
+.row4{
+    background-color: #Ffd33f;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 600;
+    letter-spacing: 10px;
+}
+.imgs5{
+    border-radius: 300px;
+    padding: 10%;
+}
+.gif1{
+    max-height: 300px;
+    
+}
+.row5{
+    background-color: #Ffd33f ;
+}
+.txt8{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.ftr1 a {
+    color: #Ffd33f;
+
+}
+.ftr1 p{
+    color: #Ffd33f;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.ftr2{
+    font-family: 'Urbanist', sans-serif;
+    color: brown;
+    font-size: 5vw ;
+    font-weight: 700;
+    border-bottom: 2px brown solid;
+    border-top: 2px brown solid;    
+}
+.ftr3hd {
+    font-family: 'Urbanist', sans-serif;
+    color: #Ffd33f;
+}
+.ftr3 p{
+    color: #Ffd33f;
+}
+/* font-family: 'Lobster', cursive; */
+/* font-family: 'Urbanist', sans-serif; */
+/* font-family: 'Bebas Neue', cursive; */
+
